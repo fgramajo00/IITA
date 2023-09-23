@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "correo": "juan.gomez@abccorp.com",
+        "departamento": "Ventas",
+        "cargo": "Gerente de Ventas",
+        "fecha_contratacion": "2023-09-23"
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "L\u00f3pez",
+        "correo": "maria.lopez@abccorp.com",
+        "departamento": "Recursos Humanos",
+        "cargo": "Analista de RRHH",
+        "fecha_contratacion": "2019-08-20"
+    }
+]
